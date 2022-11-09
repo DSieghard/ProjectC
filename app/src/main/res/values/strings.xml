@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project C</string>
+    <string name="api_console_web_id">801746349369-rlqnbol8bv571u3i30ssmklbhbcrgnqd.apps.googleusercontent.com</string>
+    <string name="server_client_id_fb">998204255210-k5805tj1c6hd1uuqv0g55qkgp62qk2ts.apps.googleusercontent.com</string>
+    <string name="server_secret_key">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</string>
+    <string name="server_client_id">801746349369-idqktqkh0d4doo5q8g9s0un580ag061i.apps.googleusercontent.com</string>
+</resources>
